@@ -40,3 +40,4 @@ title: Schedule
 | November 23  | <span class="langtech-row">Using Language Technology</span> | [Spoken Dialog System](slides/EECS_183_283a_L23_SpokenDialog.pdf) |
 | November 30  | <span class="langtech-row">Using Language Technology</span> | [Vision and Language](slides/EECS_183_283a_VisionLanguage.pdf) |
 | December 2   | <span class="langtech-row">Using Language Technology</span> | [Agents and Reasoning](slides/EECS_183_283a_Agents_Reasoning.pdf) |
+| December 15 | <span class="exam-row">FINAL EXAM</span> | 7:00--10:00 PM |
