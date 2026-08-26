@@ -17,7 +17,7 @@ title: EECS 183/283A
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kayo Yin
-baseurl: '/fa25' # the subpath of your site, e.g. /blog
+baseurl: '/fa26' # the subpath of your site, e.g. /blog
 url: 'https://cal-cs288.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
