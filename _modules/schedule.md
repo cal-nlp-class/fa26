@@ -17,10 +17,10 @@ title: Schedule
 | August 26    | <span class="intro-row">Introduction</span>        | [What is NLP?](slides/L1_NLP.pdf) &#124; [Logistics](slides/L1_Logistics.pdf) |
 | August 31    | <span class="intro-row">Introduction</span>         | [Tasks, data, evaluation](slides/EECS_183_283a_L2_TasksDataEval.pdf)                                       |
 | September 2  | <span class="ling-row">Linguistics</span>         | [Speech; tokens and types; lexical semantics](slides/EECS_183_283a_L3_Linguistics_Speech_LexicalSemantics.pdf)                     |
-| September 9  | <span class="ling-row">Linguistics</span>         | [Word embeddings; syntax](slides/EECS_183_283A_L4_Syntax.pdf) \| [Sentence-level semantics](slides/EECS_183_283a_L5_CompositionalSemantics.pdf) |
-| September 14 | <span class="ling-row">Linguistics</span>   | [Dialogue, conversation, and interaction](slides/EECS_183_283a_L5_Interaction.pdf) |
-| September 16 | <span class="seq-row">Linguistics / Sequence Modeling</span>   | [Multilinguality](slides/EECS_183_283a_L6_Multilingual.pdf) \| [Sequence modeling](slides/EECS_183_283a_L6_SequenceModeling.pdf)   |
-| September 21 | <span class="seq-row">Sequence Modeling</span>   | [Sequence generation](slides/EECS_183_283a_L7_Generation.pdf) |
+| September 9  | <span class="ling-row">Linguistics</span>         | [Word embeddings; syntax](slides/EECS_183_283A_L4_Syntax.pdf) |
+| September 14 | <span class="ling-row">Linguistics</span>    | [Sentence-level semantics](slides/EECS_183_283a_L5_CompositionalSemantics.pdf) |
+| September 16 | <span class="seq-row">Linguistics / Sequence Modeling</span>   | [Dialogue, conversation, and interaction](slides/EECS_183_283a_L5_Interaction.pdf) | 
+| September 21 | <span class="seq-row">Sequence Modeling</span>   | [Multilinguality](slides/EECS_183_283a_L6_Multilingual.pdf) \| [Sequence modeling](slides/EECS_183_283a_L6_SequenceModeling.pdf)   \| [Sequence generation](slides/EECS_183_283a_L7_Generation.pdf) |
 | September 23 | <span class="seq-row">Sequence Modeling</span>   | [N-gram language models](slides/EECS_183_283a_L7_NGrams.pdf) |
 | September 28 | <span class="seq-row">Sequence Modeling</span>   | [Neural Sequence Modelling](slides/EECS_183_283a_L8_NeuralSequenceModeling.pdf) |
 | September 30 | <span class="seq-row">Sequence Modeling</span>   | [Sequence encoding and text classification](slides/EECS_183_283a_L8_SequenceEmbedding.pdf) \| [Sequence-to-Sequence Modelling](slides/EECS_183_283a_L9_seq2seq.pdf) |
