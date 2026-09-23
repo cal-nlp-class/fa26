@@ -1,4 +1,5 @@
-name 	Shu Yuan
-role 	Reader
-email 	shuoyuan@berkeley.edu
-website 	
+---
+name: Shu Yuan
+role: Teaching Assistant
+email: shuoyuan@berkeley.edu
+---
